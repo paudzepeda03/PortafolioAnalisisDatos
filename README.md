@@ -35,6 +35,8 @@ Analizar el comportamiento de las ventas a lo largo del tiempo, identificar tend
 
 <img width="670" height="370" alt="image" src="https://github.com/user-attachments/assets/1dcf70ac-618d-4fa5-85fb-ff30be3013b5" />
 
+//
+
 <img width="578" height="323" alt="image" src="https://github.com/user-attachments/assets/5b35511a-19b8-4665-8a1c-536e72de96a2" />
 
 
@@ -42,6 +44,7 @@ Analizar el comportamiento de las ventas a lo largo del tiempo, identificar tend
 ## 📈 Insights obtenidos
 
 <img width="580" height="323" alt="image" src="https://github.com/user-attachments/assets/eebffc4c-1ce7-4e6d-8e7a-3b3c897acbd9" />
+//
 <img width="578" height="325" alt="image" src="https://github.com/user-attachments/assets/b44ba092-a56f-47c9-812d-9fe717fefdad" />
 
 ## 💡 Próximas mejoras
